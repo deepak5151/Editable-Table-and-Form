@@ -1,0 +1,34 @@
+/* @media (max-width: 767px) 
+{
+    .chan{
+    width:50%;
+    margin-right: 10px;
+    } 
+}
+
+@media (max-width: 500px) 
+{
+    .ch{
+    width:50%;
+    margin-left: auto;
+    margin-right: auto;
+    } 
+} */
+
+.navbar-light .navbar-brand {
+    color: rgba(255, 254, 254, 0.9);
+    margin-left: auto;
+    margin-right: auto;
+    font-size: xx-large;
+}
+.table td, .table th {
+    padding: .75rem;
+    border-top: 0px!important;
+}
+
+input{
+    border:1px solid rgb(233, 231, 231);
+    padding:.75rem;
+    
+    word-wrap: break-word;
+}
